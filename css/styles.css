@@ -1,0 +1,33 @@
+body{
+    font-family: Georgia,'Times New Roman',times,serif;
+}
+img{
+    border: 0;
+}
+h1{
+    color: #0066cc
+}
+strong{
+    color: #9900cc
+}
+ul li{
+    list-style: none;
+    float: left;
+    width: 220px;
+    padding: 10px;
+}
+.author{
+    color: #00cccc
+}
+#container{
+    padding-left: 50px;
+}
+.share{
+    background-color: #E6E6E6;
+    color: #ffffff;
+    width: 45px;
+    height: 18px;
+    padding: 2px;
+    cursor: pointer;
+    text-decoration: line-through;
+}

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<books>
+    <book>
+        <id>1</id>        
+        <name>Kobita 101</name>
+        <author>Binoy Bormon</author>
+        <description>Laughter book with Poetry</description>
+        <image>1.jpg</image>
+        <thumb>1_thumb.jpg</thumb>
+    </book>
+    <book>
+        <id>2</id>        
+        <name>Fobianer Jatri</name>
+        <author>Muhammad Jafar Iqbal</author>
+        <description>Science fiction</description>
+        <image>2.jpg</image>
+        <thumb>2_thumb.jpg</thumb>
+    </book>
+    <book>
+        <id>3</id>        
+        <name>Himu Mama</name>
+        <author>Humayun Ahmed</author>
+        <description>Book for himu fans</description>
+        <image>3.jpg</image>
+        <thumb>3_thumb.jpg</thumb>
+    </book>
+</books>
